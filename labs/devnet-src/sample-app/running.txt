@@ -1,0 +1,52 @@
+CONTAINER ID   IMAGE     COMMAND       CREATED       STATUS                     PORTS     NAMES
+bfe3f2bf0d0c   ubuntu    "bash"        10 days ago   Exited (255) 10 days ago             wizardly_beaver
+66a927e1632e   ubuntu    "bash"        10 days ago   Exited (0) 10 days ago               reverent_zhukovsky
+c21c9d651e1d   ubuntu    "/bin/bash"   10 days ago   Exited (127) 10 days ago             youthful_sinoussi
+06741f15409b   ubuntu    "/bin/bash"   10 days ago   Exited (0) 10 days ago               thirsty_agnesi
+367ab2d650df   ubuntu    "/bin/bas"    10 days ago   Created                              gracious_feistel
+6cc9a2a49656   ubuntu    "bash"        10 days ago   Exited (0) 10 days ago               charming_aryabhata
+CONTAINER ID   IMAGE     COMMAND       CREATED       STATUS                     PORTS     NAMES
+bfe3f2bf0d0c   ubuntu    "bash"        10 days ago   Exited (255) 10 days ago             wizardly_beaver
+66a927e1632e   ubuntu    "bash"        10 days ago   Exited (0) 10 days ago               reverent_zhukovsky
+c21c9d651e1d   ubuntu    "/bin/bash"   10 days ago   Exited (127) 10 days ago             youthful_sinoussi
+06741f15409b   ubuntu    "/bin/bash"   10 days ago   Exited (0) 10 days ago               thirsty_agnesi
+367ab2d650df   ubuntu    "/bin/bas"    10 days ago   Created                              gracious_feistel
+6cc9a2a49656   ubuntu    "bash"        10 days ago   Exited (0) 10 days ago               charming_aryabhata
+CONTAINER ID   IMAGE     COMMAND       CREATED       STATUS                     PORTS     NAMES
+bfe3f2bf0d0c   ubuntu    "bash"        10 days ago   Exited (255) 10 days ago             wizardly_beaver
+66a927e1632e   ubuntu    "bash"        10 days ago   Exited (0) 10 days ago               reverent_zhukovsky
+c21c9d651e1d   ubuntu    "/bin/bash"   10 days ago   Exited (127) 10 days ago             youthful_sinoussi
+06741f15409b   ubuntu    "/bin/bash"   10 days ago   Exited (0) 10 days ago               thirsty_agnesi
+367ab2d650df   ubuntu    "/bin/bas"    10 days ago   Created                              gracious_feistel
+6cc9a2a49656   ubuntu    "bash"        10 days ago   Exited (0) 10 days ago               charming_aryabhata
+CONTAINER ID   IMAGE     COMMAND       CREATED       STATUS                     PORTS     NAMES
+bfe3f2bf0d0c   ubuntu    "bash"        10 days ago   Exited (255) 10 days ago             wizardly_beaver
+66a927e1632e   ubuntu    "bash"        10 days ago   Exited (0) 10 days ago               reverent_zhukovsky
+c21c9d651e1d   ubuntu    "/bin/bash"   10 days ago   Exited (127) 10 days ago             youthful_sinoussi
+06741f15409b   ubuntu    "/bin/bash"   10 days ago   Exited (0) 10 days ago               thirsty_agnesi
+367ab2d650df   ubuntu    "/bin/bas"    10 days ago   Created                              gracious_feistel
+6cc9a2a49656   ubuntu    "bash"        10 days ago   Exited (0) 10 days ago               charming_aryabhata
+CONTAINER ID   IMAGE       COMMAND                  CREATED          STATUS                     PORTS                                       NAMES
+fbbed5661857   sampleapp   "/bin/sh -c 'python3…"   56 seconds ago   Up 55 seconds              0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+bfe3f2bf0d0c   ubuntu      "bash"                   10 days ago      Exited (255) 10 days ago                                               wizardly_beaver
+66a927e1632e   ubuntu      "bash"                   10 days ago      Exited (0) 10 days ago                                                 reverent_zhukovsky
+c21c9d651e1d   ubuntu      "/bin/bash"              10 days ago      Exited (127) 10 days ago                                               youthful_sinoussi
+06741f15409b   ubuntu      "/bin/bash"              10 days ago      Exited (0) 10 days ago                                                 thirsty_agnesi
+367ab2d650df   ubuntu      "/bin/bas"               10 days ago      Created                                                                gracious_feistel
+6cc9a2a49656   ubuntu      "bash"                   10 days ago      Exited (0) 10 days ago                                                 charming_aryabhata
+CONTAINER ID   IMAGE       COMMAND                  CREATED              STATUS                     PORTS                                       NAMES
+fbbed5661857   sampleapp   "/bin/sh -c 'python3…"   About a minute ago   Up About a minute          0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+bfe3f2bf0d0c   ubuntu      "bash"                   10 days ago          Exited (255) 10 days ago                                               wizardly_beaver
+66a927e1632e   ubuntu      "bash"                   10 days ago          Exited (0) 10 days ago                                                 reverent_zhukovsky
+c21c9d651e1d   ubuntu      "/bin/bash"              10 days ago          Exited (127) 10 days ago                                               youthful_sinoussi
+06741f15409b   ubuntu      "/bin/bash"              10 days ago          Exited (0) 10 days ago                                                 thirsty_agnesi
+367ab2d650df   ubuntu      "/bin/bas"               10 days ago          Created                                                                gracious_feistel
+6cc9a2a49656   ubuntu      "bash"                   10 days ago          Exited (0) 10 days ago                                                 charming_aryabhata
+CONTAINER ID   IMAGE       COMMAND                  CREATED         STATUS                     PORTS                                       NAMES
+fbbed5661857   sampleapp   "/bin/sh -c 'python3…"   2 minutes ago   Up 2 minutes               0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+bfe3f2bf0d0c   ubuntu      "bash"                   10 days ago     Exited (255) 10 days ago                                               wizardly_beaver
+66a927e1632e   ubuntu      "bash"                   10 days ago     Exited (0) 10 days ago                                                 reverent_zhukovsky
+c21c9d651e1d   ubuntu      "/bin/bash"              10 days ago     Exited (127) 10 days ago                                               youthful_sinoussi
+06741f15409b   ubuntu      "/bin/bash"              10 days ago     Exited (0) 10 days ago                                                 thirsty_agnesi
+367ab2d650df   ubuntu      "/bin/bas"               10 days ago     Created                                                                gracious_feistel
+6cc9a2a49656   ubuntu      "bash"                   10 days ago     Exited (0) 10 days ago                                                 charming_aryabhata
